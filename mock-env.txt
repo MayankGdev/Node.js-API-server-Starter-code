@@ -1,0 +1,3 @@
+{store your env variables and save this file as .env after removing this line}
+PORT=5000
+MONGO_URI={enter the Mongo DB URL }
